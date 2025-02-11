@@ -1,0 +1,15 @@
+1. Must have any Data Visualization Tool like
+
+ 1. PowerBI
+ 2. Tableau etc..
+
+2. Download any dataset from kaggle or any other website
+
+3. Import the dataset into your Data Visualization tool..
+
+ 1. Just open your visualization tool and click on the import data 
+ 2. Then select the dataset which you want to manipulate()
+  
+
+
+
