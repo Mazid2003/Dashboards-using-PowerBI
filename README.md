@@ -22,6 +22,8 @@ The dataset contains advertising spend on TV, radio, and newspaper ads, along wi
 
 Feel free to submit pull requests for improvements or new visualizations.
 
+and feel free to fork the repo, submit PRs, and give your feedback! 🔥💡
+
 **📜 License**
 
 This project is licensed under the MIT License.
